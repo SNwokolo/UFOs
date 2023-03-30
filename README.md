@@ -6,7 +6,7 @@ The purpose of this analysis is to assist a data journalist, Dana with gathering
 Below are the steps one would use when using the search criteria of the webpage:
 - There are several options for one to use in searching up specific data, the search could be done by the date of the sighting, the city, the state, country or the shape of the sighting observed. One would just need to navigate to the 'Filter Search' section of the webpage and then type in the specific criteria needed in the applicable field. See the instances below:
 - By date: simply enter the date of choice as per image below 
-https://github.com/SNwokolo/UFOs/blob/9e6af12d7b96963286005d042691cbef1e6130bb/static/images/by%20date.png
+![https://github.com/SNwokolo/UFOs/blob/9e6af12d7b96963286005d042691cbef1e6130bb/static/images/by%20date.png]
 - By city: enter the name of the city as in the image:
 https://github.com/SNwokolo/UFOs/blob/9e6af12d7b96963286005d042691cbef1e6130bb/static/images/by%20city.png
 - by state: enter the name of the state like displayed:
